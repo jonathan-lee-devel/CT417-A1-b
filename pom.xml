@@ -31,11 +31,6 @@
       <artifactId>CT417-A1</artifactId>
       <version>1</version>
     </dependency>
-<!--    <dependency>-->
-<!--      <groupId>com.github.User</groupId>-->
-<!--      <artifactId>Repo</artifactId>-->
-<!--      <version>Tag</version>-->
-<!--    </dependency>-->
 
     <dependency>
       <groupId>junit</groupId>
